@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_to">Convert to</string>
+    <string name="convert_from">Convert from</string>
+    <string name="input_value">Input value</string>
+    <string name="connection">No data, check conection</string>
+    <string name="input_positive" />
+</resources>
